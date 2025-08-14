@@ -1,0 +1,248 @@
+Problem,URL,Main_Category,Subcategory,Solved,Notes,Source
+Remove Duplicates from Sorted Array II,https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/,01. Arrays & Hashing,Array,Yes,"maintain read, write pointers",original
+Rotate Array,https://leetcode.com/problems/rotate-array,01. Arrays & Hashing,Array,Yes,Double Reverse approach,original
+Reverse Words in a String,https://leetcode.com/problems/reverse-words-in-a-string,01. Arrays & Hashing,Array,Yes,Double Reverse approach,original
+H-Index,https://leetcode.com/problems/h-index,01. Arrays & Hashing,Array,,,original
+Product of Array Except Self,https://leetcode.com/problems/product-of-array-except-self,01. Arrays & Hashing,Array,Yes,"Left cum, Right Cum",original
+Gas Station,https://leetcode.com/problems/gas-station,01. Arrays & Hashing,Array,Yes,--- No point revising,original
+Integer to Roman,https://leetcode.com/problems/integer-to-roman,01. Arrays & Hashing,Array,,,original
+Zigzag Conversion,https://leetcode.com/problems/zigzag-conversion,01. Arrays & Hashing,Array,Yes,--- No point revising,original
+Find All Duplicates in an Array,https://leetcode.com/problems/find-all-duplicates-in-an-array/,01. Arrays & Hashing,Array,Yes,Array Marking Problem-- #map the nums set to indices,original
+Insert Delete GetRandom O(1),https://leetcode.com/problems/insert-delete-getrandom-o1,01. Arrays & Hashing,Array Combo,Yes,Intersting Problem -- Don't slide all elements,original
+Min Stack,https://leetcode.com/problems/min-stack,01. Arrays & Hashing,Array Combo,,Intersting Problem -- Maintain all min indices?,original
+Group Anagrams,https://leetcode.com/problems/group-anagrams,01. Arrays & Hashing,Hashmap,Yes,Easy,original
+Longest Consecutive Sequence,https://leetcode.com/problems/longest-consecutive-sequence,01. Arrays & Hashing,Hashmap,Yes,Very good question,original
+Subarray Sums Divisible by K,https://leetcode.com/problems/subarray-sums-divisible-by-k,01. Arrays & Hashing,,,,original
+Subarray Sum Equals K,https://leetcode.com/problems/subarray-sum-equals-k,01. Arrays & Hashing,,,,original
+Find Original Array From Doubled Array,https://leetcode.com/problems/find-original-array-from-doubled-array,01. Arrays & Hashing,,,,original
+Next Permutation,https://leetcode.com/problems/next-permutation,01. Arrays & Hashing,,,,original
+Encode and Decode Strings,https://leetcode.com/problems/encode-and-decode-strings/,01. Arrays & Hashing,,,,neetcode import
+Max Consecutive Ones III,https://leetcode.com/problems/max-consecutive-ones-iii/,02. Sliding Window,Sliding Window,Yes,Easy,original
+Longest Repeating Character Replacement,https://leetcode.com/problems/longest-repeating-character-replacement/,02. Sliding Window,Sliding Window,Yes,Easy,original
+Subarray Product Less Than K,https://leetcode.com/problems/subarray-product-less-than-k/,02. Sliding Window,Sliding Window,Yes,Basic 2 Sliding Window,original
+Minimum Size Subarray Sum,https://leetcode.com/problems/minimum-size-subarray-sum,02. Sliding Window,Sliding Window,Yes,--- No point revising -- Same as above,original
+Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters,02. Sliding Window,Sliding Window,Yes,Easy -- Sum -- But practice again,original
+Fruit Into Baskets,https://leetcode.com/problems/fruit-into-baskets/,02. Sliding Window,Sliding Window,Yes,Basic 2 Sliding Window,original
+Maximum Number of Vowels in a Substring of Given Length,https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/,02. Sliding Window,Sliding Window,Yes,Fixed Size - Easy type,original
+Permutation in String,https://leetcode.com/problems/permutation-in-string/,02. Sliding Window,Sliding Window,Yes,Fixed Size Window Problem,original
+Longest Subarray of 1's After Deleting One Element,https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/,02. Sliding Window,Sliding Window,,Tricky Edgy Problem,original
+Frequency of the Most Frequent Element,https://leetcode.com/problems/frequency-of-the-most-frequent-element,02. Sliding Window,Sliding Window,,,original
+Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters,02. Sliding Window,Sliding Window,,,original
+Minimum Window Substring,https://leetcode.com/problems/minimum-window-substring/,02. Sliding Window,Sliding Window,,,neetcode import
+Sliding Window Maximum,https://leetcode.com/problems/sliding-window-maximum/,02. Sliding Window,Sliding Window,,,neetcode import
+Two Sum II - Input Array Is Sorted,https://leetcode.com/problems/two-sum-ii-input-array-is-sorted,02. Sliding Window,Sliding Window,Yes,classsic two sum,original
+Container With Most Water,https://leetcode.com/problems/container-with-most-water,02. Sliding Window,Sliding Window,Yes,don't remember this problem,original
+3Sum,https://leetcode.com/problems/3sum,02. Sliding Window,Sliding Window,,--- No point revising,original
+3Sum Closest,https://leetcode.com/problems/3sum-closest/,02. Sliding Window,Sliding Window,,--- No point revising,original
+Find the Duplicate Number,https://leetcode.com/problems/find-the-duplicate-number/,02. Sliding Window,Sliding Window,Yes,Array - using fast slow pointers,original
+Sort Colors,https://leetcode.com/problems/sort-colors/,02. Sliding Window,Sliding Window,,,original
+String Compression,https://leetcode.com/problems/string-compression,02. Sliding Window,Sliding Window,,,original
+4Sum,https://leetcode.com/problems/4sum,02. Sliding Window,Sliding Window,,,original
+Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,02. Sliding Window,Sliding Window,,,neetcode import
+Merge Intervals,https://leetcode.com/problems/merge-intervals,03. Intervals,Intervals,Yes,Don't sort by end_time,original
+Insert Interval,https://leetcode.com/problems/insert-interval,03. Intervals,Intervals,Yes,Same as above,original
+Minimum Number of Arrows to Burst Balloons,https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons,03. Intervals,Intervals,Yes,"Sort by End time, start_time",original
+Meeting Rooms II,https://leetcode.com/problems/meeting-rooms-ii/,03. Intervals,Intervals,Yes,,original
+Interval List Intersections,https://leetcode.com/problems/interval-list-intersections/,03. Intervals,Intervals,Yes,Nice Edge cases,original
+Non-overlapping Intervals,https://leetcode.com/problems/non-overlapping-intervals/,03. Intervals,Intervals,Yes,Basic Greedy,original
+Task Scheduler,https://leetcode.com/problems/task-scheduler/,03. Intervals,Intervals,,,original
+My Calendar I,https://leetcode.com/problems/my-calendar-i,03. Intervals,Intervals,,,original
+Minimum Interval to Include Each Query,https://leetcode.com/problems/minimum-interval-to-include-each-query/,03. Intervals,Intervals,,,neetcode import
+Kth Largest Element in an Array,https://leetcode.com/problems/kth-largest-element-in-an-array,04. Heap / Priority Queue,Heap,,,original
+Find K Pairs with Smallest Sums,https://leetcode.com/problems/find-k-pairs-with-smallest-sums,04. Heap / Priority Queue,Heap,,,original
+Reorganize String,https://leetcode.com/problems/reorganize-string/,04. Heap / Priority Queue,Heap,,,original
+K Closest Points to Origin,https://leetcode.com/problems/k-closest-points-to-origin/,04. Heap / Priority Queue,Heap,,,original
+Top K Frequent Elements,https://leetcode.com/problems/top-k-frequent-elements/,04. Heap / Priority Queue,Heap,,,original
+Sort Characters By Frequency,https://leetcode.com/problems/sort-characters-by-frequency/,04. Heap / Priority Queue,Heap,,,original
+Top K Frequent Elements,https://leetcode.com/problems/top-k-frequent-elements,04. Heap / Priority Queue,Heap,,,original
+Reorganize String,https://leetcode.com/problems/reorganize-string,04. Heap / Priority Queue,Heap,,,original
+Furthest Building You Can Reach,https://leetcode.com/problems/furthest-building-you-can-reach,04. Heap / Priority Queue,Heap,,,original
+Design Twitter,https://leetcode.com/problems/design-twitter/,04. Heap / Priority Queue,Heap,,,neetcode import
+Find Median From Data Stream,https://leetcode.com/problems/find-median-from-data-stream/,04. Heap / Priority Queue,Heap,,,neetcode import
+Daily Temperatures,https://leetcode.com/problems/daily-temperatures,05. Stack,Monotonic Stack,,,original
+Buildings With an Ocean View,https://leetcode.com/problems/buildings-with-an-ocean-view,05. Stack,Monotonic Stack,Yes,,original
+Sum of Subarray Minimums,https://leetcode.com/problems/sum-of-subarray-minimums,05. Stack,Monotonic Stack,Yes,,original
+Remove K Digits,https://leetcode.com/problems/remove-k-digits,05. Stack,Monotonic Stack,Yes,,original
+Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit,https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit,05. Stack,Monotonic Stack,Yes,,original
+Simplify Path,https://leetcode.com/problems/simplify-path,05. Stack,Simple Stack,,,original
+Evaluate Reverse Polish Notation,https://leetcode.com/problems/evaluate-reverse-polish-notation,05. Stack,Simple Stack,Yes,easy,original
+decode string,https://leetcode.com/problems/decode-string/description/?envType=featured-list&envId=top-microsoft-questions?envType=featured-list&envId=top-microsoft-questions,05. Stack,Simple Stack,,,original
+Remove All Adjacent Duplicates in String II,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii,05. Stack,Simple Stack,Yes,,original
+Remove Duplicate Letters,https://leetcode.com/problems/remove-duplicate-letters,05. Stack,Simple Stack,,,original
+Basic Calculator II,https://leetcode.com/problems/basic-calculator-ii,05. Stack,Simple Stack,,,original
+132 Pattern,https://leetcode.com/problems/132-pattern,05. Stack,Simple Stack,,,original
+Car Fleet,https://leetcode.com/problems/car-fleet/,05. Stack,Simple Stack,,,neetcode import
+Largest Rectangle In Histogram,https://leetcode.com/problems/largest-rectangle-in-histogram/,05. Stack,Simple Stack,,,neetcode import
+Implement Trie (Prefix Tree),https://leetcode.com/problems/implement-trie-prefix-tree,06. Tries,Trie,,,original
+Design Add and Search Words Data Structure,https://leetcode.com/problems/design-add-and-search-words-data-structure,06. Tries,Trie,,,original
+Longest Word in Dictionary,https://leetcode.com/problems/longest-word-in-dictionary/,06. Tries,Trie,,,original
+Maximum XOR of Two Numbers in an Array,https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/,06. Tries,Trie,,,original
+Word Search II,https://leetcode.com/problems/word-search-ii/,06. Tries,Trie,,,neetcode import
+Valid Parenthesis String,https://leetcode.com/problems/valid-parenthesis-string,07. Greedy,Greedy,,,original
+Largest Palindromic Number,https://leetcode.com/problems/largest-palindromic-number,07. Greedy,Greedy,,,original
+Hand of Straights,https://leetcode.com/problems/hand-of-straights/,07. Greedy,Greedy,,,neetcode import
+Merge Triplets to Form Target Triplet,https://leetcode.com/problems/merge-triplets-to-form-target-triplet/,07. Greedy,Greedy,,,neetcode import
+Partition Labels,https://leetcode.com/problems/partition-labels/,07. Greedy,Greedy,,,neetcode import
+Search a 2D Matrix,https://leetcode.com/problems/search-a-2d-matrix,08. Binary Search,Binary Search,,You have to find row using row_end not row_start,original
+Search a 2D Matrix II,https://leetcode.com/problems/search-a-2d-matrix-ii/,08. Binary Search,Binary Search,Yes,"Simultaneous row, col search possible",original
+Find Peak Element,https://leetcode.com/problems/find-peak-element,08. Binary Search,Binary Search,Yes,Default loop logic breaks -- see notes,original
+Search in Rotated Sorted Array,https://leetcode.com/problems/search-in-rotated-sorted-array,08. Binary Search,Binary Search,Yes,Default loop logic breaks -- see notes,original
+Find First and Last Position of Element in Sorted Array,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array,08. Binary Search,Binary Search,,,original
+Search in Rotated Sorted Array II,https://leetcode.com/problems/search-in-rotated-sorted-array-ii/,08. Binary Search,Binary Search,,,original
+Peak Index in a Mountain Array,https://leetcode.com/problems/peak-index-in-a-mountain-array/,08. Binary Search,Binary Search,,,original
+Find Minimum in Rotated Sorted Array,https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/,08. Binary Search,Binary Search,,,original
+Find K Closest Elements,https://leetcode.com/problems/find-k-closest-elements/,08. Binary Search,Binary Search,,,original
+Kth Smallest Element in a Sorted Matrix,https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/,08. Binary Search,Binary Search,,,original
+Minimum Absolute Difference Between Elements With Constraint,https://leetcode.com/problems/minimum-absolute-difference-between-elements-with-constraint,08. Binary Search,Binary Search,,,original
+Koko Eating Bananas,https://leetcode.com/problems/koko-eating-bananas/,08. Binary Search,Binary Search,,,neetcode import
+Time Based Key Value Store,https://leetcode.com/problems/time-based-key-value-store/,08. Binary Search,Binary Search,,,neetcode import
+Median of Two Sorted Arrays,https://leetcode.com/problems/median-of-two-sorted-arrays/,08. Binary Search,Binary Search,,,neetcode import
+Maximum Number of Operations With the Same Score II,https://leetcode.com/problems/maximum-number-of-operations-with-the-same-score-ii,08. Dynamic Programming,1-D Dynamic Programming,,,original
+Best Time to Buy and Sell Stock with Cooldown,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/,08. Dynamic Programming,1D DP,,,original
+House Robber,https://leetcode.com/problems/house-robber,08. Dynamic Programming,1D DP,,,original
+Jump Game,https://leetcode.com/problems/jump-game/,08. Dynamic Programming,1D DP,,,original
+Best Time to Buy and Sell Stock II,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii,08. Dynamic Programming,1D DP,,,original
+Jump Game II,https://leetcode.com/problems/jump-game-ii,08. Dynamic Programming,1D DP,,https://leetcode.com/problems/climbing-stairs/,original
+House Robber II,https://leetcode.com/problems/house-robber-ii/,08. Dynamic Programming,1D DP,,https://leetcode.com/problems/house-robber/description/,original
+Word Break,https://leetcode.com/problems/word-break,08. Dynamic Programming,1D DP,,https://leetcode.com/problems/target-sum/description/,original
+Decode Ways,https://leetcode.com/problems/decode-ways/,08. Dynamic Programming,1D DP,,LONGEST COMMON SUBSEQUENCE/ LONGEST COMMON WORD,original
+Coin Change,https://leetcode.com/problems/coin-change,08. Dynamic Programming,1D DP,,Weighted Interval Scheduling Problem,original
+Number of Longest Increasing Subsequence,https://leetcode.com/problems/number-of-longest-increasing-subsequence/,08. Dynamic Programming,1D DP,,https://leetcode.com/problems/valid-parenthesis-string/description/,original
+Longest Increasing Subsequence,https://leetcode.com/problems/longest-increasing-subsequence,08. Dynamic Programming,1D DP,,,original
+Triangle,https://leetcode.com/problems/triangle,08. Dynamic Programming,1D DP,,,original
+Target Sum,https://leetcode.com/problems/target-sum/,08. Dynamic Programming,1D DP,,,original
+Largest Divisible Subset,https://leetcode.com/problems/largest-divisible-subset,08. Dynamic Programming,1D DP,,,original
+Combination Sum IV,https://leetcode.com/problems/combination-sum-iv/,08. Dynamic Programming,2D DP,,,original
+Unique Paths,https://leetcode.com/problems/unique-paths/,08. Dynamic Programming,2D DP,,,original
+Partition Equal Subset Sum,https://leetcode.com/problems/partition-equal-subset-sum/,08. Dynamic Programming,2D DP,,,original
+Partition to K Equal Sum Subsets,https://leetcode.com/problems/partition-to-k-equal-sum-subsets/,08. Dynamic Programming,2D DP,,,original
+Minimum Path Sum,https://leetcode.com/problems/minimum-path-sum,08. Dynamic Programming,2D DP,,,original
+Unique Paths II,https://leetcode.com/problems/unique-paths-ii,08. Dynamic Programming,2D DP,,,original
+Longest Common Subsequence,https://leetcode.com/problems/longest-common-subsequence/,08. Dynamic Programming,2D DP,,,neetcode import
+Coin Change II,https://leetcode.com/problems/coin-change-ii/,08. Dynamic Programming,2D DP,,,neetcode import
+Longest Increasing Path In a Matrix,https://leetcode.com/problems/longest-increasing-path-in-a-matrix/,08. Dynamic Programming,2D DP,,,neetcode import
+Distinct Subsequences,https://leetcode.com/problems/distinct-subsequences/,08. Dynamic Programming,2D DP,,,neetcode import
+Burst Balloons,https://leetcode.com/problems/burst-balloons/,08. Dynamic Programming,2D DP,,,neetcode import
+Regular Expression Matching,https://leetcode.com/problems/regular-expression-matching/,08. Dynamic Programming,2D DP,,,neetcode import
+Maximum Subarray,https://leetcode.com/problems/maximum-subarray,08. Dynamic Programming,Kadane's Algorithm,,,original
+Maximum Sum Circular Subarray,https://leetcode.com/problems/maximum-sum-circular-subarray,08. Dynamic Programming,Kadane's Algorithm,,,original
+Maximum Product Subarray,https://leetcode.com/problems/maximum-product-subarray/,08. Dynamic Programming,Kadane's Algorithm,,,original
+Palindromic Substrings,https://leetcode.com/problems/palindromic-substrings/,08. Dynamic Programming,String DP,,,original
+Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring,08. Dynamic Programming,String DP,,,original
+Interleaving String,https://leetcode.com/problems/interleaving-string,08. Dynamic Programming,String DP,,,original
+Edit Distance,https://leetcode.com/problems/edit-distance,08. Dynamic Programming,String DP,,,original
+Maximal Square,https://leetcode.com/problems/maximal-square,08. Dynamic Programming,String DP,,Easy,original
+Letter Combinations of a Phone Number,https://leetcode.com/problems/letter-combinations-of-a-phone-number,10. Backtracking,Backtracking,,,original
+Permutations,https://leetcode.com/problems/permutations,10. Backtracking,Backtracking,,,original
+Permutations II,https://leetcode.com/problems/permutations-ii/,10. Backtracking,Backtracking,,,original
+Combination Sum,https://leetcode.com/problems/combination-sum,10. Backtracking,Backtracking,,,original
+Combination Sum II,https://leetcode.com/problems/combination-sum-ii/,10. Backtracking,Backtracking,,,original
+Combination Sum III,https://leetcode.com/problems/combination-sum-iii/,10. Backtracking,Backtracking,,,original
+Word Search,https://leetcode.com/problems/word-search,10. Backtracking,Backtracking,,,original
+Factor Combinations,https://leetcode.com/problems/factor-combinations/,10. Backtracking,Backtracking,,,original
+Letter Case Permutation,https://leetcode.com/problems/letter-case-permutation/,10. Backtracking,Backtracking,,,original
+Palindrome Partitioning,https://leetcode.com/problems/palindrome-partitioning/,10. Backtracking,Backtracking,,,original
+Generalized Abbreviation,https://leetcode.com/problems/generalized-abbreviation/,10. Backtracking,Backtracking,,,original
+Split a String Into the Max Number of Unique Substrings,https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/,10. Backtracking,Backtracking,,,original
+Maximum Length of a Concatenated String with Unique Characters,https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/description/?envType=featured-list&envId=top-microsoft-questions?envType=featured-list&envId=top-microsoft-questions,10. Backtracking,Backtracking,,,original
+Restore IP Addresses,https://leetcode.com/problems/restore-ip-addresses,10. Backtracking,Backtracking,,,original
+N Queens,https://leetcode.com/problems/n-queens/,10. Backtracking,Backtracking,,,neetcode import
+Combinations,https://leetcode.com/problems/combinations,10. Backtracking,Backtracking,,,original
+Subsets,https://leetcode.com/problems/subsets/,10. Backtracking,Backtracking,,,original
+Subsets II,https://leetcode.com/problems/subsets-ii/,10. Backtracking,Backtracking,,,original
+Generate Parentheses,https://leetcode.com/problems/generate-parentheses,10. Backtracking,Backtracking,Yes,based on Valid Parenthesis String,original
+Construct Quad Tree,https://leetcode.com/problems/construct-quad-tree,10. Backtracking,Backtracking,,,original
+Binary Tree Right Side View,https://leetcode.com/problems/binary-tree-right-side-view,11. Trees,Binary Tree BFS,,,original
+Binary Tree Level Order Traversal,https://leetcode.com/problems/binary-tree-level-order-traversal,11. Trees,Binary Tree BFS,,,original
+Binary Tree Zigzag Level Order Traversal,https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal,11. Trees,Binary Tree BFS,,,original
+Kth Smallest Element in a BST,https://leetcode.com/problems/kth-smallest-element-in-a-bst,11. Trees,Binary Tree BFS,,,original
+Validate Binary Search Tree,https://leetcode.com/problems/validate-binary-search-tree,11. Trees,Binary Tree BFS,,,original
+Construct Binary Tree from Preorder and Inorder Traversal,https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal,11. Trees,Binary Tree General,,,original
+Construct Binary Tree from Inorder and Postorder Traversal,https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal,11. Trees,Binary Tree General,,,original
+Populating Next Right Pointers in Each Node II,https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii,11. Trees,Binary Tree General,,,original
+Flatten Binary Tree to Linked List,https://leetcode.com/problems/flatten-binary-tree-to-linked-list,11. Trees,Binary Tree General,,,original
+Sum Root to Leaf Numbers,https://leetcode.com/problems/sum-root-to-leaf-numbers,11. Trees,Binary Tree General,,,original
+Binary Search Tree Iterator,https://leetcode.com/problems/binary-search-tree-iterator,11. Trees,Binary Tree General,,,original
+Lowest Common Ancestor of a Binary Tree,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree,11. Trees,Binary Tree General,,,original
+Path Sum II,https://leetcode.com/problems/path-sum-ii/,11. Trees,Binary Tree General,,,original
+Path Sum III,https://leetcode.com/problems/path-sum-iii/,11. Trees,Binary Tree General,,,original
+Maximum Binary Tree,https://leetcode.com/problems/maximum-binary-tree/,11. Trees,Binary Tree General,,,original
+Maximum Width of Binary Tree,https://leetcode.com/problems/maximum-width-of-binary-tree/,11. Trees,Binary Tree General,,,original
+Insert into a Binary Search Tree,https://leetcode.com/problems/insert-into-a-binary-search-tree,11. Trees,Trees-Uncategorized,,,original
+Inorder Successor in BST,https://leetcode.com/problems/inorder-successor-in-bst,11. Trees,Trees-Uncategorized,,,original
+Delete Node in a BST,https://leetcode.com/problems/delete-node-in-a-bst,11. Trees,Trees-Uncategorized,,,original
+Binary Tree Vertical Order Traversal,https://leetcode.com/problems/binary-tree-vertical-order-traversal,11. Trees,Trees-Uncategorized,,,original
+Distribute Coins in Binary Tree,https://leetcode.com/problems/distribute-coins-in-binary-tree,11. Trees,Trees-Uncategorized,,,original
+Maximum Level Sum of a Binary Tree,https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree,11. Trees,Trees-Uncategorized,,,original
+Populating Next Right Pointers in Each Node,https://leetcode.com/problems/populating-next-right-pointers-in-each-node,11. Trees,Trees-Uncategorized,,,original
+Lowest Common Ancestor of a Binary Search Tree,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/,11. Trees,Trees-Uncategorized,,,neetcode import
+Count Good Nodes In Binary Tree,https://leetcode.com/problems/count-good-nodes-in-binary-tree/,11. Trees,Trees-Uncategorized,,,neetcode import
+Binary Tree Maximum Path Sum,https://leetcode.com/problems/binary-tree-maximum-path-sum/,11. Trees,Trees-Uncategorized,,,neetcode import
+Serialize And Deserialize Binary Tree,https://leetcode.com/problems/serialize-and-deserialize-binary-tree/,11. Trees,Trees-Uncategorized,,,neetcode import
+Satisfiability of Equality Equations,https://leetcode.com/problems/satisfiability-of-equality-equations,12. Graphs,Advanced Graphs,,,original
+Network Delay Time,https://leetcode.com/problems/network-delay-time/,12. Graphs,Advanced Graphs,,,neetcode import
+Reconstruct Itinerary,https://leetcode.com/problems/reconstruct-itinerary/,12. Graphs,Advanced Graphs,,,neetcode import
+Min Cost to Connect All Points,https://leetcode.com/problems/min-cost-to-connect-all-points/,12. Graphs,Advanced Graphs,,,neetcode import
+Swim In Rising Water,https://leetcode.com/problems/swim-in-rising-water/,12. Graphs,Advanced Graphs,,,neetcode import
+Alien Dictionary,https://leetcode.com/problems/alien-dictionary/,12. Graphs,Advanced Graphs,,,neetcode import
+Cheapest Flights Within K Stops,https://leetcode.com/problems/cheapest-flights-within-k-stops/,12. Graphs,Advanced Graphs,,,neetcode import
+Graph Valid Tree,https://leetcode.com/problems/graph-valid-tree/,12. Graphs,Advanced Graphs - Union Find,,,original
+Number of Connected Components in an Undirected Graph,https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/,12. Graphs,Advanced Graphs - Union Find,,,original
+Binary Tree Level Order Traversal II,https://leetcode.com/problems/binary-tree-level-order-traversal-ii/,12. Graphs,Graph BFS,,,original
+Snakes and Ladders,https://leetcode.com/problems/snakes-and-ladders,12. Graphs,Graph BFS,,,original
+Minimum Genetic Mutation,https://leetcode.com/problems/minimum-genetic-mutation,12. Graphs,Graph BFS,,,original
+Populating Next Right Pointers in Each Node,https://leetcode.com/problems/populating-next-right-pointers-in-each-node/,12. Graphs,Graph BFS,,,original
+Number of Islands,https://leetcode.com/problems/number-of-islands,12. Graphs,Graph General,,,original
+Surrounded Regions,https://leetcode.com/problems/surrounded-regions,12. Graphs,Graph General,,,original
+Clone Graph,https://leetcode.com/problems/clone-graph,12. Graphs,Graph General,,,original
+Evaluate Division,https://leetcode.com/problems/evaluate-division,12. Graphs,Graph General,,,original
+Course Schedule,https://leetcode.com/problems/course-schedule,12. Graphs,Graph General,,,original
+Course Schedule II,https://leetcode.com/problems/course-schedule-ii,12. Graphs,Graph General,,,original
+Pacific Atlantic Water Flow,https://leetcode.com/problems/pacific-atlantic-water-flow/,12. Graphs,Graph General,,,original
+All Nodes Distance K in Binary Tree,https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/,12. Graphs,Graph General,,,original
+Minimum Height Trees,https://leetcode.com/problems/minimum-height-trees/,12. Graphs,Graph General,,,original
+Sequence Reconstruction,https://leetcode.com/problems/sequence-reconstruction/,12. Graphs,Graph General,,,original
+Max Area of Island,https://leetcode.com/problems/max-area-of-island,12. Graphs,Graphs-Uncategorized,,,original
+Minimum Fuel Cost to Report to the Capital,https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital,12. Graphs,Graphs-Uncategorized,,,original
+Time Needed to Inform All Employees,https://leetcode.com/problems/time-needed-to-inform-all-employees,12. Graphs,Graphs-Uncategorized,,,original
+Minimum Knight Moves,https://leetcode.com/problems/minimum-knight-moves,12. Graphs,Graphs-Uncategorized,,,original
+Walls And Gates,https://leetcode.com/problems/walls-and-gates/,12. Graphs,Graphs-Uncategorized,,,neetcode import
+Rotting Oranges,https://leetcode.com/problems/rotting-oranges/,12. Graphs,Graphs-Uncategorized,,,neetcode import
+Redundant Connection,https://leetcode.com/problems/redundant-connection/,12. Graphs,Graphs-Uncategorized,,,neetcode import
+Word Ladder,https://leetcode.com/problems/word-ladder/,12. Graphs,Graphs-Uncategorized,,,neetcode import
+Single Number II,https://leetcode.com/problems/single-number-ii,13. Bit Manipulation,Bit Manipulation,,,original
+Bitwise AND of Numbers Range,https://leetcode.com/problems/bitwise-and-of-numbers-range,13. Bit Manipulation,Bit Manipulation,,,original
+Sum of Two Integers,https://leetcode.com/problems/sum-of-two-integers/,13. Bit Manipulation,Bit Manipulation,,,neetcode import
+Add Two Numbers,https://leetcode.com/problems/add-two-numbers,14. Linked List,Linked List,,Dummy Head basics,original
+Copy List with Random Pointer,https://leetcode.com/problems/copy-list-with-random-pointer,14. Linked List,Linked List,,,original
+Remove Nth Node From End of List,https://leetcode.com/problems/remove-nth-node-from-end-of-list,14. Linked List,Linked List,,,original
+Remove Duplicates from Sorted List II,https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii,14. Linked List,Linked List,,,original
+Rotate List,https://leetcode.com/problems/rotate-list,14. Linked List,Linked List,,,original
+Partition List,https://leetcode.com/problems/partition-list,14. Linked List,Linked List,,,original
+LRU Cache,https://leetcode.com/problems/lru-cache,14. Linked List,Linked List,,Binary List,original
+Linked List Cycle II,https://leetcode.com/problems/linked-list-cycle-ii/,14. Linked List,Linked List,,,original
+Sort List,https://leetcode.com/problems/sort-list/,14. Linked List,Linked List,,,original
+Reorder List,https://leetcode.com/problems/reorder-list/,14. Linked List,Linked List,,,original
+Odd Even Linked List,https://leetcode.com/problems/odd-even-linked-list,14. Linked List,Linked List,,,original
+Copy List with Random Pointer,https://leetcode.com/problems/copy-list-with-random-pointer,14. Linked List,Linked List,,,original
+Merge K Sorted Lists,https://leetcode.com/problems/merge-k-sorted-lists/,14. Linked List,Linked List,,,neetcode import
+Reverse Nodes In K Group,https://leetcode.com/problems/reverse-nodes-in-k-group/,14. Linked List,Linked List,,,neetcode import
+Reverse Linked List II,https://leetcode.com/problems/reverse-linked-list-ii/,14. Linked List,Linked List - Reversal,,,original
+Swap Nodes in Pairs,https://leetcode.com/problems/swap-nodes-in-pairs/,14. Linked List,Linked List - Reversal,,,original
+Odd Even Linked List,https://leetcode.com/problems/odd-even-linked-list/,14. Linked List,Linked List - Reversal,,,original
+Factorial Trailing Zeroes,https://leetcode.com/problems/factorial-trailing-zeroes,15. Math & Geometry,Math,,,original
+"Pow(x, n)",https://leetcode.com/problems/powx-n,15. Math & Geometry,Math,,,original
+Design Tic-Tac-Toe,https://leetcode.com/problems/design-tic-tac-toe,15. Math & Geometry,Math-Uncategorized,,,original
+Find Missing Observations,https://leetcode.com/problems/find-missing-observations,15. Math & Geometry,Math-Uncategorized,,,original
+Minimum Moves to Spread Stones Over Grid,https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid,15. Math & Geometry,Math-Uncategorized,,,original
+Multiply Strings,https://leetcode.com/problems/multiply-strings,15. Math & Geometry,Math-Uncategorized,,,original
+Nth Digit,https://leetcode.com/problems/nth-digit,15. Math & Geometry,Math-Uncategorized,,,original
+Reverse Integer,https://leetcode.com/problems/reverse-integer,15. Math & Geometry,Math-Uncategorized,,,original
+String to Integer (atoi),https://leetcode.com/problems/string-to-integer-atoi,15. Math & Geometry,Math-Uncategorized,,,original
+Detect Squares,https://leetcode.com/problems/detect-squares/,15. Math & Geometry,Math-Uncategorized,,,neetcode import
+Valid Sudoku,https://leetcode.com/problems/valid-sudoku,15. Math & Geometry,Matrix,Yes,Backtracking with undo,original
+Spiral Matrix,https://leetcode.com/problems/spiral-matrix,15. Math & Geometry,Matrix,Yes,Recursion,original
+Rotate Image,https://leetcode.com/problems/rotate-image,15. Math & Geometry,Matrix,Yes,"Puzzly -- diagonal flips, bisection flips are easy",original
+Set Matrix Zeroes,https://leetcode.com/problems/set-matrix-zeroes,15. Math & Geometry,Matrix,Yes,Easy,original
+Game of Life,https://leetcode.com/problems/game-of-life,15. Math & Geometry,Matrix,,,original
+Managers with at Least 5 Direct Reports,https://leetcode.com/problems/managers-with-at-least-5-direct-reports,16. Miscellaneous,Database,,,original

@@ -1,0 +1,15 @@
+Problem_Name,URL,Status,Subcategory
+132 Pattern,https://leetcode.com/problems/132-pattern,Existing,Simple Stack
+Buildings With An Ocean View,https://leetcode.com/problems/buildings-with-an-ocean-view,Existing,Monotonic Stack
+Daily Temperatures,https://leetcode.com/problems/daily-temperatures,Existing,Monotonic Stack
+Longest Continuous Subarray With Absolute Diff Less Than Or Equal To Limit,https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit,Existing,Monotonic Stack
+Remove K Digits,https://leetcode.com/problems/remove-k-digits,Existing,Monotonic Stack
+Sum Of Subarray Minimums,https://leetcode.com/problems/sum-of-subarray-minimums,Existing,Monotonic Stack
+Basic Calculator Ii,https://leetcode.com/problems/basic-calculator-ii,Missing,Simple Stack
+Car Fleet,https://leetcode.com/problems/car-fleet/,Missing,Simple Stack
+Decode String,https://leetcode.com/problems/decode-string/description/?envType=featured-list&envId=top-microsoft-questions?envType=featured-list&envId=top-microsoft-questions,Missing,Simple Stack
+Evaluate Reverse Polish Notation,https://leetcode.com/problems/evaluate-reverse-polish-notation,Missing,Simple Stack
+Largest Rectangle In Histogram,https://leetcode.com/problems/largest-rectangle-in-histogram/,Missing,Simple Stack
+Remove All Adjacent Duplicates In String Ii,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii,Missing,Simple Stack
+Remove Duplicate Letters,https://leetcode.com/problems/remove-duplicate-letters,Missing,Simple Stack
+Simplify Path,https://leetcode.com/problems/simplify-path,Missing,Simple Stack

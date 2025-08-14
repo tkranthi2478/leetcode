@@ -1,0 +1,32 @@
+Problem_Name,URL,Status,Subcategory
+Clone Graph,https://leetcode.com/problems/clone-graph,Existing,Graph General
+Course Schedule Ii,https://leetcode.com/problems/course-schedule-ii,Existing,Graph General
+Minimum Fuel Cost To Report To The Capital,https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital,Existing,Graphs-Uncategorized
+Number Of Connected Components In An Undirected Graph,https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/,Existing,Advanced Graphs - Union Find
+Alien Dictionary,https://leetcode.com/problems/alien-dictionary/,Missing,Advanced Graphs
+All Nodes Distance K In Binary Tree,https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/,Missing,Graph General
+Binary Tree Level Order Traversal Ii,https://leetcode.com/problems/binary-tree-level-order-traversal-ii/,Missing,Graph BFS
+Cheapest Flights Within K Stops,https://leetcode.com/problems/cheapest-flights-within-k-stops/,Missing,Advanced Graphs
+Course Schedule,https://leetcode.com/problems/course-schedule,Missing,Graph General
+Evaluate Division,https://leetcode.com/problems/evaluate-division,Missing,Graph General
+Graph Valid Tree,https://leetcode.com/problems/graph-valid-tree/,Missing,Advanced Graphs - Union Find
+Max Area Of Island,https://leetcode.com/problems/max-area-of-island,Missing,Graphs-Uncategorized
+Min Cost To Connect All Points,https://leetcode.com/problems/min-cost-to-connect-all-points/,Missing,Advanced Graphs
+Minimum Genetic Mutation,https://leetcode.com/problems/minimum-genetic-mutation,Missing,Graph BFS
+Minimum Height Trees,https://leetcode.com/problems/minimum-height-trees/,Missing,Graph General
+Minimum Knight Moves,https://leetcode.com/problems/minimum-knight-moves,Missing,Graphs-Uncategorized
+Network Delay Time,https://leetcode.com/problems/network-delay-time/,Missing,Advanced Graphs
+Number Of Islands,https://leetcode.com/problems/number-of-islands,Missing,Graph General
+Pacific Atlantic Water Flow,https://leetcode.com/problems/pacific-atlantic-water-flow/,Missing,Graph General
+Populating Next Right Pointers In Each Node,https://leetcode.com/problems/populating-next-right-pointers-in-each-node/,Missing,Graph BFS
+Reconstruct Itinerary,https://leetcode.com/problems/reconstruct-itinerary/,Missing,Advanced Graphs
+Redundant Connection,https://leetcode.com/problems/redundant-connection/,Missing,Graphs-Uncategorized
+Rotting Oranges,https://leetcode.com/problems/rotting-oranges/,Missing,Graphs-Uncategorized
+Satisfiability Of Equality Equations,https://leetcode.com/problems/satisfiability-of-equality-equations,Missing,Advanced Graphs
+Sequence Reconstruction,https://leetcode.com/problems/sequence-reconstruction/,Missing,Graph General
+Snakes And Ladders,https://leetcode.com/problems/snakes-and-ladders,Missing,Graph BFS
+Surrounded Regions,https://leetcode.com/problems/surrounded-regions,Missing,Graph General
+Swim In Rising Water,https://leetcode.com/problems/swim-in-rising-water/,Missing,Advanced Graphs
+Time Needed To Inform All Employees,https://leetcode.com/problems/time-needed-to-inform-all-employees,Missing,Graphs-Uncategorized
+Walls And Gates,https://leetcode.com/problems/walls-and-gates/,Missing,Graphs-Uncategorized
+Word Ladder,https://leetcode.com/problems/word-ladder/,Missing,Graphs-Uncategorized

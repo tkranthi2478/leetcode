@@ -1,0 +1,28 @@
+Problem_Name,URL,Status,Subcategory
+Construct Binary Tree From Preorder And Inorder Traversal,https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal,Existing,Binary Tree General
+Delete Node In A Bst,https://leetcode.com/problems/delete-node-in-a-bst,Existing,Trees-Uncategorized
+Flatten Binary Tree To Linked List,https://leetcode.com/problems/flatten-binary-tree-to-linked-list,Existing,Binary Tree General
+Insert Into A Binary Search Tree,https://leetcode.com/problems/insert-into-a-binary-search-tree,Existing,Trees-Uncategorized
+Lowest Common Ancestor Of A Binary Tree,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree,Existing,Binary Tree General
+Maximum Level Sum Of A Binary Tree,https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree,Existing,Trees-Uncategorized
+Serialize And Deserialize Binary Tree,https://leetcode.com/problems/serialize-and-deserialize-binary-tree/,Existing,Trees-Uncategorized
+Sum Root To Leaf Numbers,https://leetcode.com/problems/sum-root-to-leaf-numbers,Existing,Binary Tree General
+Validate Binary Search Tree,https://leetcode.com/problems/validate-binary-search-tree,Existing,Binary Tree BFS
+Binary Search Tree Iterator,https://leetcode.com/problems/binary-search-tree-iterator,Missing,Binary Tree General
+Binary Tree Level Order Traversal,https://leetcode.com/problems/binary-tree-level-order-traversal,Missing,Binary Tree BFS
+Binary Tree Maximum Path Sum,https://leetcode.com/problems/binary-tree-maximum-path-sum/,Missing,Trees-Uncategorized
+Binary Tree Right Side View,https://leetcode.com/problems/binary-tree-right-side-view,Missing,Binary Tree BFS
+Binary Tree Vertical Order Traversal,https://leetcode.com/problems/binary-tree-vertical-order-traversal,Missing,Trees-Uncategorized
+Binary Tree Zigzag Level Order Traversal,https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal,Missing,Binary Tree BFS
+Construct Binary Tree From Inorder And Postorder Traversal,https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal,Missing,Binary Tree General
+Count Good Nodes In Binary Tree,https://leetcode.com/problems/count-good-nodes-in-binary-tree/,Missing,Trees-Uncategorized
+Distribute Coins In Binary Tree,https://leetcode.com/problems/distribute-coins-in-binary-tree,Missing,Trees-Uncategorized
+Inorder Successor In Bst,https://leetcode.com/problems/inorder-successor-in-bst,Missing,Trees-Uncategorized
+Kth Smallest Element In A Bst,https://leetcode.com/problems/kth-smallest-element-in-a-bst,Missing,Binary Tree BFS
+Lowest Common Ancestor Of A Binary Search Tree,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/,Missing,Trees-Uncategorized
+Maximum Binary Tree,https://leetcode.com/problems/maximum-binary-tree/,Missing,Binary Tree General
+Maximum Width Of Binary Tree,https://leetcode.com/problems/maximum-width-of-binary-tree/,Missing,Binary Tree General
+Path Sum Ii,https://leetcode.com/problems/path-sum-ii/,Missing,Binary Tree General
+Path Sum Iii,https://leetcode.com/problems/path-sum-iii/,Missing,Binary Tree General
+Populating Next Right Pointers In Each Node,https://leetcode.com/problems/populating-next-right-pointers-in-each-node,Missing,Trees-Uncategorized
+Populating Next Right Pointers In Each Node Ii,https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii,Missing,Binary Tree General
