@@ -1,0 +1,22 @@
+1. Arrays & Hashing
+2. Sliding Window
+3. Intervals
+
+4. Heap / Priority Queue
+5. Stack
+6. Tries
+
+7. Greedy
+8. Dynamic Programming
+
+9. Binary Search
+10. Backtracking
+11. Trees
+12. Graphs
+
+13. Bit Manipulation
+14. Linked List
+15. Math & Geometry
+16. Miscceanoues
+    Database
+    OOD
